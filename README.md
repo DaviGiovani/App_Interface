@@ -1,1 +1,1 @@
-# Esse é um aplicativo escolar, que ajuda o aluno a se programar semanalmente com suas tarefas e responsabilidades.
+# Sistema pré-lançado, com bugs e reparos a serem sanados para o lançamento da primeira versão.
