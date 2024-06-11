@@ -1,1 +1,1 @@
-# Correção de bugs após o lançamento da primeira versão (1.1)
+# Correção de bugs após o lançamento da primeira versão (1.0)
